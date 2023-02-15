@@ -5,7 +5,7 @@ export const PLAYLIST = [
 		title: "Lafıma Gücenme",
 		link: "lafimagucenme",
 		imgUrl:
-			"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
+			"https://avatars.githubusercontent.com/u/111684121?v=4",
 		hoverColor: "rgb(224, 112, 16)",
 		artist: "Ari Barokos",
 		playlistBg: "rgb(224, 112, 16)",
